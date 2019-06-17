@@ -1,3 +1,5 @@
+issues this.props.form.getFieldValue() 获取值是不是最新的
+
 # Ant Design Pro
 
 This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
